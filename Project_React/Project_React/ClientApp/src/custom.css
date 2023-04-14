@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+html,
+body,
+#root {
+    background-color: #222;
+    height: 100%;
+}
+

@@ -1,0 +1,64 @@
+﻿.btn_edit {
+    background-color: #4cff00;
+    color: #fff;
+    padding: 0.5em 1em;
+    margin:10px;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 30px;
+}
+
+.btn_delete {
+    background-color: #ff0000;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 30px;
+}
+
+.btn_add {
+    background-color: #2f2f2f;
+    color: #fff;
+    margin:1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 30px;
+}
+
+.btn:hover {
+    font-size: 17px;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+    border:none;
+}
+
+.container h1 {
+    display:flex;
+    margin:0.5em;
+    color: #f2f2f2;
+    font-weight: bold;
+}
+
+.container p {
+    border:none;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 30px;
+}
+
+.container tr {
+    color: #f2f2f2;
+    font-weight: bold;
+}
+
+.container_add {
+}
